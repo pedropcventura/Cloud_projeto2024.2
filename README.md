@@ -62,4 +62,10 @@ Endpoints da API
 - Vídeo de Demonstração: https://youtu.be/m1FtsI_8rn0
 - Imagem no Docker Hub: https://hub.docker.com/repository/docker/pedropcventura/cloud-api/general
 - Localização do Arquivo compose.yaml: https://github.com/pedropcventura/Cloud_projeto2024.2/blob/main/compose.yaml
-**
+
+- teste endpoint registrar:
+![reg](img/registrar.png)
+- teste endpoint login
+![log](img/login.png)
+- teste endpoint consultar
+![log](img/consultar.png)
